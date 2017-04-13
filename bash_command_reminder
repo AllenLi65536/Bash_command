@@ -1,0 +1,59 @@
+#sshd server config
+vim /etc/ssh/sshd_config 
+vim /etc/issue
+vim motd.sh
+
+#Graphical pacman
+pcurses
+pacman -Ql package_name
+
+#install AUR
+makekg -s
+pacman -U *.pkg.tar.xz
+
+#Logout
+lxsession
+
+# Basic configs
+vim /etc/vimrc
+vim /etc/udev/rules.d/50-wake-on-device.rules
+vim /etc/systemd/network/wired.network
+vim /etc/systemd/system/getty@.service.d/activate-numlock.conf
+vim /etc/systemd/system/getty.target.wants/getty\@tty1.service 
+
+# Bash config
+vim /etc/bash.bashrc
+vim .bashrc
+vim /etc/profile
+
+#iptables
+vim /etc/iptables/iptables.rules.bak
+iptables-restore < /etc/iptables/iptables.rules
+iptables-save > /etc/iptables/iptables.rules
+
+/usr/lib/systemd/system/iptables.service
+/etc/systemd/system/
+
+xinit /usr/bin/startlxde 
+
+#SWAP
+swapon --show
+mkswap /dev/sda1
+swapon /dev/sda1
+
+# grub config
+vim /etc/default/grub 
+info -f grub
+grub-mkconfig
+grub-mkconfig -o /boot/grub/grub.cfg
+grub-install /dev/sda
+
+vim /etc/mkinitcpio.conf
+mkinitcpio -p linux
+
+ln -s /usr/share/zoneinfo/Asia/Taipei /etc/localtime
+
+#phpmyadmin
+/etc/httpd/conf/httpd.conf
+/etc/php/php.ini
+/etc/httpd/conf/extra/phpmyadmin.conf
