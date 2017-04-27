@@ -1,0 +1,684 @@
+dhcpcd enp1s0
+sudo dhcpcd enp1s0
+startx
+xinit /usr/bin/startlxde 
+sudo xinit /usr/bin/startlxde 
+sudo startx
+sudo startx
+startx
+sudo startx
+exit
+sudo startx
+ls
+exit
+sudo startx
+exit
+sudo startx
+exit
+exit
+exit
+exit
+exit
+ls
+cd packer/
+ls
+makepkg
+sudo makepkg
+cd ..
+ls
+mkdir packer
+cd packer/
+wget https://aur.archlinux.org/cgit/aur.git/plain/PKGBUILD?h=packer
+mv PKGBUILD\?h\=packer PKGBUILD
+makepkg
+ls
+pacman -U packer-20160325-1-any.pkg.tar.xz 
+sudo pacman -U packer-20160325-1-any.pkg.tar.xz 
+cd ..
+ls
+sudo startx
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+sudo startx
+systemctl status
+systemctl poweroff
+exit
+ls
+exit
+ls
+cd /
+ls
+cd root/
+sudo cd root/
+su
+cd ~
+ls
+vim bash_command_reminder 
+vim motd.sh 
+vim bash_command_reminder 
+chown bash_command_reminder 
+chown bash_command_reminder allenli
+man chown
+chown allenli bash_command_reminder
+sudo chown allenli bash_command_reminder
+ls
+vim bash_command_reminder 
+la
+ls -all
+vim .bashrc 
+vim .bash_profile 
+source ~/.bashrc
+history
+:q
+ls
+ls -a
+ls -all
+ls -al
+vim .bash_logout 
+vim .xinitrc 
+pacman -S fortune
+sudo pacman -S fortune
+sudo pacman -S fortune-mod
+fortune
+fortune
+sudo pacman -S cowsay
+vim ~/.bashrc
+vim bash_command_reminder 
+history
+ls
+cowsay -l
+vim /usr/share/cows/kiss.cow 
+cd cowsay -l
+cd /usr/share/cows/
+ls
+vim beavis.zen.cow 
+vim daemon.cow 
+vim eyes.cow 
+vim kitty.cow 
+vim moofasa.cow 
+vim skeleton.cow 
+vim surgery.cow 
+vim udder.cow 
+cowsay -h
+cowsay -f skeleton.cow 
+cowsay -f skeleton.cow I
+cowsay -f koala.cow Hello
+sh motd.sh 
+sudo sh motd.sh 
+sudo sh motd.sh 
+cowsay -f supermilker.cow Hello
+cowsay -f flaming-sheep.cow Hello
+cowsay -f koala.cow Hello
+cowsay -f flaming-sheep.cow Hello
+sudo sh motd.sh 
+exit
+exit
+cowsay -l
+cd cowsay -f small
+cowsay -f small Hello
+cowsay -f turtle Hello
+cowsay -f cheese Hello
+cowsay -f dragon-and-cow Hello
+cowsay -f satanic Hello
+cowsay -f hellokitty Hello
+cowsay -f turkey Hello
+cowsay -f meow Hello
+cowsay -f ghostbusters Hello
+cowsay -f moose Hello
+cowsay -f www Hello
+exit
+exit
+sudo sh motd.sh 
+sudo sh motd.sh 
+sudo sh motd.sh 
+exit
+exit
+exit
+shopt -h
+man shopt
+shopt -help
+man source
+source -h
+source ~/.bashrc
+find -h
+man find
+man shuf
+vim motd.sh 
+systemctl poweroff
+systemctl status
+sudo startx
+startx
+sudo startx
+startx
+vim ~/.xinitrc 
+man xinit\
+xinit
+vim motd.sh 
+vim ~/.xinitrc 
+source ~/.bashrc
+vim ~/.bashrc
+vim ~/.bashrc
+vim ~/.bashrc
+source ~/.bashrc
+source ~/.bashrc
+vim ~/.bashrc
+ls
+vim ~/.bashrc
+exit
+vim ~/.bashrc
+source ~/.bashrc
+source ~/.bashrc
+source ~/.bashrc
+source ~/.bashrc
+exit
+history
+vim ~/.bashrc
+vim .bashrc 
+vim /root/.bashrc
+sudo vim /root/.bashrc
+startx
+vim .bashrc 
+exit
+startx
+locate .bashrc
+whereis .bashrc
+history
+whereis .bashrc
+vim .bashrc 
+ls
+ls -al
+vim .bash_profile 
+vim .bash_logout 
+vim .bash_history 
+vim .bashrc 
+source ~/.bashrc
+vim .bashrc 
+startx
+vim .bashrc 
+startx
+ls
+ls -all
+vim .bashrc 
+systemctl reboot
+ls
+history
+ls --color=auto
+la
+ls
+la
+vim .bashrc 
+~/.bashrc
+la
+ls -all
+ls -al
+ls
+la
+alias
+alias
+exho $PS1
+echo $PS1
+echo $PROMPT_COMMAND
+vim .bashrc 
+echo $PROMPT_COMMAND
+echo $PROMPT_COMMAND
+echo $PROMPT_COMMAND
+bash
+echo $PROMPT_COMMAND
+ls
+echo $PROMPT_COMMAND
+ls
+shopt
+alias
+vim .bashrc 
+alias
+export
+vim .bashrc 
+echo $HISTSIZE
+echo $PROMPT_COMMAND
+echo $PROMPT_COMMAND
+echo $HISTSIZE
+echo $HISTSIZE
+alias
+alias
+alias
+shopt
+shopt -h
+man shopt
+export
+export
+echo $PROMPT_COMMAND
+echo $PROMPT_COMMAND
+echo $PROMPT_COMMAND
+echo $PROMPT_COMMAND
+set
+echo $PROMPT_COMMAND
+set
+env
+ls
+la
+la
+env
+echo $PROMPT_COMMAND
+echo $PROMPT_COMMAND
+echo $PROMPT_COMMAND
+vim .bashrc 
+vim /etc/bash.bashrc 
+vim /etc/bash.bashrc 
+sudo vim /etc/bash.bashrc 
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+echo $PROMPT_COMMAND
+env
+bash
+bash
+bash
+ls
+exit
+free -h
+locale
+vim .bashrc 
+free -h
+ls
+cd Desktop/
+ls
+cd ../Downloads/
+ls
+cd ../packer/
+ls
+cd ..
+rm -r packer/
+rm -rf packer/
+ls
+la
+vim .wget-hsts 
+vim .Xauthority 
+vim .xinitrc 
+vim /etc/X11/xinit/xinitrc
+vim .viminfo 
+systemctl poweroff
+startx
+discover
+pcurses
+env
+vim .xinitrc 
+vim .bashrc 
+set
+gcin &
+locale
+gcin
+gcin -h
+exit
+vim ~/.xinitrc 
+exit
+startx
+lxterminal
+vim .xinitrc 
+kill gcin
+ps
+kill 312
+vim bash_command_reminder 
+sudo vim /etc/vimrc 
+pcurses
+systemctl suspend
+lxde
+twm
+man xinit
+exit
+locate lxdm
+find lxdm
+vim /etc/X11/xinit/xinitrc
+vim .xinitrc 
+vim /etc/X11/xinit/xinitrc
+vim .xinitrc 
+lxde-logout
+lxsession
+vim bash_command_reminder 
+vim .xinitrc 
+lxsession
+startx
+startx
+startx
+vim .xinitrc 
+startx
+startx
+vim .xinitrc 
+startx
+vim .xinitrc 
+startx
+vim .xinitrc 
+startx
+startx
+startx
+free -h
+vim .xinitrc 
+systemctl reboot
+avahi
+systemd status
+systemctl status
+systemctl -h
+systemctl list-units
+systemctl list-unit-files
+pcurses
+nano .xinitrc 
+vim .xinitrc 
+vim /sys/power/image_size 
+cat /proc/cmdline 
+firefox
+vim /boot/grub/grub.cfg
+vim /etc/default/grub 
+sudo vim /etc/default/grub 
+grub-mkconfig -o /boot/grub/grub.cfg
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+vim /etc/mkinitcpio.conf 
+sudo vim /etc/mkinitcpio.conf 
+mkinitcpio -p linux
+sudo mkinitcpio -p linux
+:vim bash_command_reminder 
+:vim bash_command_reminder 
+vim
+vim bash_command_reminder 
+vim bash_command_reminder 
+exit
+startx
+cd ..
+ls
+cd ..
+ls
+cd home/allenli/Desktop/
+ls
+mkdir WindowsShare
+mount.cifs //10.19.1.45 /home/allenli/Desktop/WindowsShare/ -o user=tw/0009695
+mount //10.19.1.45 /home/allenli/Desktop/WindowsShare/ -o user=tw/0009695
+sudo mount //10.19.1.45 /home/allenli/Desktop/WindowsShare/ -o user=tw/0009695
+pacman -S mount.cifs
+sudo
+sudo sudo
+
+vim .xinitrc 
+cd ~
+vim .xinitrc 
+pcurses
+pacman -S ntfs-3g
+sudo pacman -S ntfs-3g
+mount -t ntfs-3g /home/allenli/Desktop/WindowsShare/ //10.19.1.45/
+sudo mount -t ntfs-3g /home/allenli/Desktop/WindowsShare/ //10.19.1.45/
+sudo mount -t ntfs-3g /home/allenli/Desktop/WindowsShare //10.19.1.45
+vim .xinitrc 
+startx
+history -a
+history -a
+history
+env
+set
+history
+man history
+bash
+vim .bashrc 
+vim .bash_history 
+ls
+la
+ls
+vim .bashrc 
+history
+history
+bash
+vim .bashrc 
+vim .bashrc 
+bash
+la
+la
+vim .bashrc 
+echo PROMPT_COMMAND
+vim .bashrc 
+echo $PROMPT_COMMAND
+vim .bashrc 
+bash
+bash
+exit
+vim .bashrc 
+echo $PROMPT_COMMAND
+vim .bashrc 
+startx
+history
+vim .bashrc 
+history
+ls
+cd Desktop/
+ls
+rm WindowsShare/
+rm -r WindowsShare/
+ls
+exit
+sudo mount //10.19.1.45 /home/allenli/Desktop/WindowsShare/ -o user=tw/0009695
+cd Desktop/
+mkdir WindowsShare
+sudo mount //10.19.1.45 /home/allenli/Desktop/WindowsShare/ -o user=tw/0009695
+sudo mount.cifs //10.19.1.45 /home/allenli/Desktop/WindowsShare/ -o user=tw/0009695
+sudo mount -t cifs //10.19.1.45 /home/allenli/Desktop/WindowsShare/ -o user=tw/0009695
+sudo pacman -R ntfs-3g
+sudo pacman -S cifs-utils
+sudo mount -t cifs //10.19.1.45 /home/allenli/Desktop/WindowsShare/ -o user=tw/0009695
+man mount.cifs
+sudo mount.cifs //10.19.1.45 /home/allenli/Desktop/WindowsShare/ -o user=tw/0009695
+man mount.cifs
+sudo mount.cifs //10.19.1.45 /home/allenli/Desktop/WindowsShare/ -o username=tw/0009695
+sudo mount.cifs //10.19.1.45 /home/allenli/Desktop/WindowsShare/ -o username=tw/0009695 password=allen1234
+sudo mount.cifs //10.19.1.45 /home/allenli/Desktop/WindowsShare/ -o username=tw/0009695 password=allen1234
+sudo mount.cifs //10.19.1.45 /home/allenli/Desktop/WindowsShare/ -o username=tw/0009695
+man mount.cifs
+sudo mount.cifs //10.19.1.45/QuoteBackup /home/allenli/Desktop/WindowsShare/ -o username=tw/0009695
+sudo mount.cifs //10.19.1.45/QuoteBackup /home/allenli/Desktop/WindowsShare -o username=tw/0009695
+sudo mount.cifs //10.19.1.45/QuoteBackup /home/allenli/Desktop/WindowsShare -o username=tw/0009695
+sudo mount.cifs //10.19.1.45/QuoteBackup /home/allenli/Desktop/WindowsShare -o username=tw/0009695
+echo $PROMPT_COMMAND
+vim .bashrc 
+history
+exit
+history
+startx
+systemctl -status
+systemctl status
+kill 331
+vim .bashrc 
+vim .bashrc 
+vim /etc/default/grub 
+sudo vim /etc/default/grub 
+vim .bashrc 
+startx
+ssh warrant.kgi.com
+telnet warrant.kgi.com
+man history
+vim .history
+man history
+history
+history
+echo $PROMPT_COMMAND
+vim .bashrc 
+env
+vim /etc/profile
+vim -S mysession.vim 
+set
+exit
+vim .bashrc 
+bash
+exit
+set -o
+exit
+startx
+sudo mount.cifs //10.19.1.45/QuoteBackup /home/allenli/Desktop/WindowsShare -o username=tw\0009695
+bash
+sudo mount.cifs //10.19.1.45/QuoteBackup /home/allenli/Desktop/WindowsShare -o username=tw.kgi.com/0009695
+sudo mount.cifs //10.19.1.45/QuoteBackup /home/allenli/Desktop/WindowsShare -o username=TW.KGI.COM/0009695
+fs
+free -h
+pacman -Ss
+man pacman
+pacman -Su
+sudo pacman -Su
+bash
+lsbash
+bash
+pacman -S mariadb
+sudo pacman -S mariadb
+mysql_install_db --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+sudo mysql_install_db --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+mysql_secure_installation
+sudo mysql_secure_installation
+systemctl -start mariadb.service
+systemctl start mariadb.service
+mysql_secure_installation
+systemctl status
+mysql -u root -p
+mkdir /NAS-share
+sudo mkdir /NAS-share
+mount -t nfs //10.19.1.203/volume01/Share /NAS-share
+sudo mount -t nfs //10.19.1.203/volume01/Share /NAS-share
+pacman -S nfs-utils
+sudo pacman -S nfs-utils
+sudo mount -t nfs //10.19.1.203/volume01/Share /NAS-share
+sudo mount -t nfs 10.19.1.203:/volume01/Share /NAS-share
+sudo mount -t nfs 10.19.1.203:/volume1/Share /NAS-share
+cd /NAS-share/
+ls
+df
+vim /etc/fstab 
+sudo vim /etc/fstab 
+mount -a
+sudo mount -a
+sudo vim /etc/fstab 
+sudo mount -a
+df
+sudo vim /etc/fstab 
+cd ..
+ls
+mv NAS-share/ NAS-Share/
+umount /NAS-share/
+sudo umount /NAS-share/
+mv NAS-share/ NAS-Share/
+sudo mv NAS-share/ NAS-Share/
+sudo vim /etc/fstab 
+sudo mount -a
+ls
+la
+cd ~
+ls
+cd /NAS-Share/
+ls
+cd BackupIronman/
+ls
+la
+cd shield-wiki/
+ls
+la
+cd ~
+exit
+vim -S mysession.vim 
+exit
+startx
+[allenli@Warrant NAS-Share]$ sudo mount -t
+vim -S mysession.vim 
+cd /NAS-Share/
+ls
+exit
+mysql -u root -p
+systemctl enable mariadb.service
+mysql -u root -p
+systemctl start mariadb.service
+mysql -u root -p
+exit
+vim -S mysession.vim 
+startx
+vim /etc/mysql/my.cnf 
+sudo vim /etc/mysql/my.cnf 
+mysql --help --verbose
+sudo vim /etc/mysql/my.cnf 
+ps aux
+systemctl status
+systemctl status httpd.service
+systemctl enable httpd.service
+systemctl restart httpd.service
+systemctl status httpd.service
+systemctl status 
+exit
+cd /NAS-Share/
+ls
+la
+cd BackupIronman/
+ls
+la
+cd ~
+mysql -u root -p
+mysqlcheck --all-databases -u root -p -c
+mysqlcheck --all-databases -u root -p -a
+mysqlcheck --all-databases -u root -p -o
+sudo pacman -S apache
+systemctl start httpd.service
+vim /etc/httpd/conf/httpd.conf 
+sudo vim /etc/httpd/conf/httpd.conf 
+sudo pacman -S php
+sudo pacman -S php-apache
+sudo vim /etc/httpd/conf/httpd.conf 
+systemctl restart httpd.service
+vim /srv/http/test.php
+sudo vim /srv/http/test.php
+sudo vim /etc/php/php.ini 
+mysql -h
+man mysql
+systemctl status
+systemctl restart mariadb.service
+sudo vim /etc/php/php.ini 
+pacman -S phpmyadmin 
+sudo pacman -S phpmyadmin 
+sudo vim /etc/php/php.ini 
+sudo vim /etc/httpd/conf/extra/phpmyadmin.conf
+sudo vim /etc/httpd/conf/httpd.conf 
+systemctl restart httpd
+sudo vim /etc/php/php.ini 
+exit
+free -h
+systemctl status
+ startx
+
+git --help
+free -h
+history
+vim .bash_history 
+history
+cat
+bash
+bash
+man bash
+vim -S mysession.vim 
+man pacman
+pacman -SU
+pacman -Su
+sudo pacman -Su
+startx
