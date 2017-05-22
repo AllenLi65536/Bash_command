@@ -57,3 +57,11 @@ ln -s /usr/share/zoneinfo/Asia/Taipei /etc/localtime
 /etc/httpd/conf/httpd.conf
 /etc/php/php.ini
 /etc/httpd/conf/extra/phpmyadmin.conf
+
+#disk
+df -h
+blkid
+lsblk
+fdisk -l
+mkfs.vfat 
+findmnt
