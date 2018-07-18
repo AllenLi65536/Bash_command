@@ -43,4 +43,5 @@ export XMODIFIERS=@im=gcin
 export QT_IM_MODULE=gcin
 #export GCIN_XIM=gcin_zh
 gcin &
+#udiskie &
 exec startlxde

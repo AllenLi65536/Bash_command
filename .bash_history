@@ -2097,3 +2097,1552 @@ git push
 git log
 vim LeapYear.
 vim LeapYear.java 
+vim bash_command_reminder 
+pacman -Su
+sudo pacman -Su
+vim bash_command_reminder 
+ls
+cd algs4/
+ls
+git init
+git add .
+git status
+git remote -v
+git remote add https://github.com/AllenLi65536/Algorithms-Princeton.git
+git remote add github https://github.com/AllenLi65536/Algorithms-Princeton.git
+git remote -v
+git push github
+git push github master
+git commit -m "initialized"
+git config --global user.email "allen79624@gmail.com"
+git config --global user.name "AllenLi65536"
+git push github master
+git commit -m "initialized"
+git push github master
+git status
+ls
+cd ..
+ls
+vim bash_command_reminder 
+cd ..
+ls
+cd ..
+ls
+mkdir NAS-Warrant
+sudo mkdir NAS-Warrant
+ls
+la
+cd NAS-Share/
+ls
+cd ..
+cd NAS-Warrant/
+ls
+cd ..
+ls
+la
+cd NAS-Warrant/
+chown NAS-Share/ 
+chown NAS-Share/ allenli
+chown NAS-Warrant/ allenli
+chown --help
+chown allenli -r NAS-Warrant/
+chown allenli -R NAS-Warrant/
+sudo chown allenli -R NAS-Warrant/
+ls
+la
+cd NAS-Warrant/
+la
+sudo chown allenli -R NAS-Warrant/
+la
+cd NAS-Warrant/
+ls
+cd ..
+ls
+cd ~
+ls
+cd ..
+ls
+cd ..
+ls
+la
+cd NAS-
+cd NAS-Share/
+ls
+cd ..
+la
+chla
+la
+cdown root NAS-Warrant/
+chown root NAS-Warrant/
+sudo chown root NAS-Warrant/
+la
+cd NAS-Warrant/
+ls
+cd ..
+la
+cd NAS-Warrant/
+sudo cd NAS-Warrant/
+sudo
+sudo cd NAS-Warrant/
+su
+ls
+la
+cd NAS-
+cd NAS-Warrant/
+ls
+cd ~
+ls
+vim bash_command_reminder 
+exit
+ls
+cd CS61B/
+ls
+git remote -v
+git remote remove origin
+git remote -v
+git remote add origin https://AllenLi65536@bitbucket.org/AllenLi65536/cs61b.git
+git remote -v
+git pull skeleton master
+ls
+cd hw1
+ls
+la
+cd ..
+la
+git remote push origin
+git remote push origin master
+git push origin master
+cd ..
+ls
+ls -al
+git status
+git log
+vim motd.sh 
+git add motd.sh 
+git status
+git add .*
+ls
+git status
+git remote -v
+git remote remove origin
+git remote -v
+git remote add origin https://AllenLi65536@bitbucket.org/AllenLi65536/home.git
+git remote -v
+git add .bash*
+git status
+git add .bash*
+git status
+git add .xinitrc 
+git add .xscreensaver 
+git status
+git remove .bash_command_remonder.swp
+git status
+git commit -m "add some files"
+git status
+git rm .bash_command_reminder.swp
+git status
+git commit -m "deleted .bash_command_reminder.swp"
+git remote -v
+git push origin master
+ls
+cd algs4/
+ls
+git status
+git remote -v
+git remote add https://AllenLi65536@bitbucket.org/AllenLi65536/algorithms-princeton.git
+git remote add bitbucket https://AllenLi65536@bitbucket.org/AllenLi65536/algorithms-princeton.git
+git remote -v
+cd ..
+ls
+git remote -v
+cd CS61B/
+git remote -v
+free -h
+cd ..
+vim .bashrc 
+vim bash_command_reminder 
+exit
+cd algs4/
+ls
+la
+git status
+git log
+git rm *.class
+ls
+la
+git status
+vim .gitignore
+git status
+la
+vim .git
+git reset HEAD HelloWorld.class
+git status
+la
+git rm --cached 8puzzle/*.class
+cd 8puzzle/
+ls
+la
+cd ..
+git status
+ls
+git rm HelloWorld.class
+la
+git status
+git commit -m "remove 8puzzle/*.class"
+git log
+git remote -v
+git push bitbucket master
+git rm --cached */*.class
+git rm --cached collinear/*.class
+git rm --cached collinear/*.zip
+git rm --cached kdtree/*.class
+git rm --cached kdtree/*.zip
+git rm --cached percolation/*.zip
+git rm --cached percolation/*.class
+git rm --cached queues/*.class
+git status
+git add .gitignore 
+git status
+git add */*.zip
+git add -f */*.zip
+git status
+git commit -m "remove */*.class"
+git push bitbucket master
+cd ..
+ls
+cd CS61B/
+ls
+la
+vim .gitignore 
+ls
+mkdir openSourceCode
+cd openSourceCode/
+git clone https://github.com/kevin-wayne/algs4.git
+ls
+cd ..
+ls
+cd anaconda3/
+ls
+cd ..
+ls
+cd AUR/
+ls
+cd checkstyle/
+ls
+cd src/
+ls
+cd checkstyle
+ls
+cd checkstyle-checkstyle-7.2/
+ls
+cd src/
+ls
+cd main/
+ls
+cd java/
+ls
+cd com/
+ls
+cd puppycrawl/
+ls
+cd tools/checkstyle/
+ls
+checkstyle -h
+cd ~
+ls
+man exports
+df -h
+vim bash_command_reminder 
+git status
+git add bash_command_reminder 
+git commit -m "Add disk operations"
+git remote -v
+git push origin master
+cd /media/USBStick/
+ls
+mkdir test
+ls -al
+sudo mkdir test
+ls
+cd test/
+ls
+cd ..
+ls -al
+chmod USBStick/ 777
+cd USBStick/
+chmod 777
+chmod --help
+cd ..
+chmod 777 USBStick/
+sudo chmod 777 USBStick/
+la
+cd USBStick/
+ls
+mkdir test2
+cd ..
+fdisk -l
+sudo chmod 666 USBStick/
+la
+chmod 777 USBStick/
+sudo chmod 777 USBStick/
+la
+chmod 666 /dev/sde
+sudo chmod 666 /dev/sde
+la
+chmod 777 /dev/sde
+sudo chmod 777 /dev/sde
+la
+df -h
+umount ./USBStick/
+sudo umount ./USBStick/
+la
+cd ..
+la
+cd media/
+la
+man mount
+la
+cd /NAS-
+cd /NAS-Share/
+cd /NAS-Warrant/
+ls
+cd QuoteData/VIX/
+ls
+cp 201705??VIXlog.txt /media/USBStick/
+cd /
+la
+cd media/
+ls
+la
+chmod 766 USBStick/
+sudo chmod 766 USBStick/
+la
+cd ..
+ls
+cd /NAS-Warrant/
+ls
+ls -al
+la
+cd QuoteData/
+la
+cd Delta/
+la
+cd 20170416
+la
+vim log.txt 
+cd ../20170413
+la
+vim log.txt 
+cd ..
+ls
+la
+cd 20170405
+ls
+cd ..
+ls
+cd 20170416
+ls
+vim log.txt 
+cd /NAS-Share/
+la
+cd /
+la
+sudo
+su
+cd NAS-Warrant/
+ls
+vim test
+la
+rm test 
+ls
+cd ..
+la
+cd NAS-Share/
+la
+cd ..
+la
+man rsync
+rsync -h
+pacman -S rsync
+sudo pacman -S rsync
+man rsync
+cd ~
+ls
+cd openSourceCode/
+ls
+tar -h
+tar --help
+tar -x rsync-3.1.2.tar.gz 
+tar -xf rsync-3.1.2.tar.gz 
+ls
+cd rsync-3.1.2
+ls
+cd ..
+rm rsync-3.1.2.tar.gz 
+cd rsync-3.1.2/
+vim rsync.c 
+vim options.c 
+ls
+vim main.c 
+cd ..
+ls
+la
+cd algs4/
+ls
+vim LICENSE 
+vim README.md 
+man chgpwd
+man chpwd
+passwd
+df -h
+ls
+cd /
+ls
+cd dev/
+ls
+df
+lsblk
+blkid
+sudo blkid
+cd /dev/sde1
+cd /dev/sde2
+find /dev/bus/
+sudo blkid
+lsblk
+sudo blkid
+cd ..
+ls
+mkdir media
+sudo mkdir media
+ls
+cd media/
+mkdir USBStick
+sudo mkdir USBStick
+ls
+lsblk
+df -h
+mount /dev/sde1 /media/USBStick/
+sudo mount /dev/sde1 /media/USBStick/
+ls -al
+cd USBStick/
+ls
+cd ..
+cd ~/Downloads/
+ls
+dd bs=4M if=./ubuntu-16.04.2-desktop-amd64.iso of=/dev/sde1 status=progress && sync
+sudo dd bs=4M if=./ubuntu-16.04.2-desktop-amd64.iso of=/dev/sde1 status=progress && sync
+fdisk -l
+sudo fdisk -l
+df -h
+umount /media/USBStick/
+sudo umount /media/USBStick/
+df -h
+mount /dev/sde /media/USBStick/
+sudo mount /dev/sde /media/USBStick/
+df -h
+fdisk -l
+lsblk
+sudo blkid
+df -h
+umount /media/USBStick/
+sudo umount /media/USBStick/
+lsblk
+sudo blkid
+fdisk -l
+sudo fdisk -l
+df -h
+mkfs.vfat /dev/sde
+findmnt
+dosfstools /dev/sde
+pacman -S dosfstools
+sudo pacman -S dosfstools
+mkfs.vfat /dev/sde
+sudo mkfs.vfat /dev/sde
+sudo fdisk -l
+lsblk
+df -h
+sudo blkid
+sudo mount /dev/sde /media/USBStick/
+df -h
+ls
+cd ..
+cd /NAS-Warrant/
+ls
+cd QuoteData/
+ls
+cd VIX/
+ls
+cp 20170518VIXlog.txt /media/USBStick/
+la
+cd ..
+la
+chmod 777 media/
+sudo chmod 777 media/
+la
+cd media/
+ls
+la
+chmod 777 USBStick/
+sudo chmod 777 USBStick/
+la
+umount USBStick/
+sudo umount USBStick/
+la
+chmod 777 US
+chmod 777 USBStick/
+sudo chmod 777 USBStick/
+la
+mount /dev/sde /media/USBStick/
+sudo mount /dev/sde /media/USBStick/
+la
+cd /dev
+la
+df -h
+fdisk -l
+sudo fdisk -l
+lablk
+lsblk
+sudo blkid
+cd ~
+sudo mount --rw /dev/sde /media/USBStick/
+cd /media/
+la
+umount ./USBStick/
+sudo umount ./USBStick/
+sudo mount -o rw,users,umask=000 /dev/sde /media/USBStick/
+la
+umount ./USBStick/
+sudo umount ./USBStick/
+la
+cd ..
+la
+cd ~
+vim bash_command_reminder 
+df -h
+la
+sudo pacman -S unixodbc
+sudo Pacman -Su
+sudo pacman -Su
+startx
+ls
+sudo pacman -S unixodbc
+exit
+sudo pacman -S unixodbc
+echo $repo
+echo $arch
+echo $ARCH
+pacman-mirrorlist
+pacman -S pacman-mirrorlist
+sudo pacman -S pacman-mirrorlist
+pacman-mirrorlist
+sed -i 's/^#Server/Server/' /etc/pacman.d/mirrorlist.backup
+sudo sed -i 's/^#Server/Server/' /etc/pacman.d/mirrorlist.backup
+vim /etc/pacman.d/mirrorlist.backup
+rankmirrors -n 10 /etc/pacman.d/mirrorlist.backup > /etc/pacman.d/mirrorlist
+sudo rankmirrors -n 10 /etc/pacman.d/mirrorlist.backup > /etc/pacman.d/mirrorlist
+su
+cp /NAS-Share/mirrorlist.backup /etc/pacman.d/mirrorlist
+sudo cp /NAS-Share/mirrorlist.backup /etc/pacman.d/mirrorlist
+vim /etc/pacman.d/mirrorlist
+sudo pacman -S unixodbc
+sudo pacman -Syu
+sudo sed -i 's/^#Server/Server/' /etc/pacman.d/mirrorlist
+sudo pacman -Syu
+pacman -Syuw
+sudo pacman -Syuw
+rm /etc/ssl/certs/ca-certificates.crt 
+sudo rm /etc/ssl/certs/ca-certificates.crt 
+pacman -Su
+sudo pacman -Su
+ls
+free -h
+vim /etc/pacman.d/mirrorlist
+sudo vim /etc/pacman.d/mirrorlist
+cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.backup2
+sudo cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.backup2
+sudo vim /etc/pacman.d/mirrorlist
+cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.backup
+sudo cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.backup
+vim /usr/bin/rankmirrors 
+vim /etc/pacman.d/mirrorlist
+vim /etc/pacman.d/mirrorlist.backup
+cp /etc/pacman.d/mirrorlist.backup /NAS-Share/
+vim /etc/pacman.d/mirrorlist
+sudo vim /etc/pacman.d/mirrorlist
+cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.backup
+sudo cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.backup
+ls
+sudo vim /etc/pacman.d/mirrorlist
+vim bash_command_reminder 
+vim /etc/pacman.d/mirrorlist
+vim /etc/pacman.d/mirrorlist.backup
+cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.backup
+sudo cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.backup
+rm /etc/pacman.d/mirrorlist.backup2 
+sudo rm /etc/pacman.d/mirrorlist.backup2 
+vim /etc/pacman.d/mirrorlist
+vim /etc/pacman.d/mirrorlist.backup 
+rankmirrors -n 10 /etc/pacman.d/mirrorlist.backup > /etc/pacman.d/mirrorlist
+sudo rankmirrors -n 10 /etc/pacman.d/mirrorlist.backup > /etc/pacman.d/mirrorlist
+su
+startx
+ls
+cd algs4/
+ls
+cd 8puzzle/
+ls
+vim Solver.java 
+java-algs4 Solver puzzle3x3-03.txt 
+vim puzzle3x3-03.txt 
+vim temp
+cd algs4/
+ls
+cd 8puzzle/
+ls
+java-algs4 Solver temp
+java-algs4 Solver puzzle3x3-15.txt 
+java-algs4 Solver temp2
+sudo pacman -Su
+sudo pacman -Syu
+free -h
+vim bash_command_reminder 
+free -h
+exit
+lsu@10.19.1.51
+ssh lsu@10.19.1.51
+exit
+free -h
+vim /etc/pacman.d/gnupg/gpg.conf 
+sudo vim /etc/pacman.d/gnupg/gpg.conf 
+vim /etc/passwd
+ps
+df -h
+blkid
+cat
+neko
+lsblk
+fdisk -l
+sudo fdisk -l
+pacman -Su
+sudo pacman -Su
+man pacman
+pacman -Syu
+sudo pacman -Syu
+keyserver hkps://hkps.pool.sks-keyservers.net:443
+vim /etc/pacman.d/gnupg/gpg.conf 
+sudo vim /etc/pacman.d/gnupg/gpg.conf 
+sudo pacman -Syu
+sudo vim /etc/pacman.d/gnupg/gpg.conf 
+pacman-key --populate archlinux
+sudo pacman-key --populate archlinux
+sudo pacman -Syu
+dirmngr
+sudo pacman -Syu
+vim /root/.gnupg/dirmngr_ldapservers.conf
+sudo vim /root/.gnupg/dirmngr_ldapservers.conf
+dirmngr
+sudo dirmngr
+sudo pacman -Syu
+sudo pacman -Sc
+sudo pacman -Syu
+sudo pacman -Sy archlinux-keyring
+sudo pacman -Syu
+man udisksd
+man udisk
+man udisksctl
+man udisks
+udisks2
+udiskie
+vim .xinitrc 
+pcurses
+pacman -Qqe
+pacman -S udisks2
+sudo pacman -S udisks2
+pacman -Qqe
+df -h
+blkid
+lsblk
+udiskie -tray
+udiskie --tray
+pacman -S dunst
+sudo pacman -S dunst
+udiskie --tray
+lsblk -f
+ls
+ls /
+cd /media/
+ls
+cd USBStick/
+cd ..
+mount sde /media/USBStick/
+sudo mount sde /media/USBStick/
+sudo mount /dev/sde /media/USBStick/
+man mkfs.ntfs
+mkfs.ntfs
+pacman -S mkfs
+sudo !
+sudo sudo !
+sudo pacman -S mkfs
+sudo pacman -S mkfs.ntfs
+sudo pacman -S mkntfs
+sudo pacman -S dosfstools
+sudo mount /dev/sde /media/USBStick/
+dosfstools
+mkfs.vfat
+mkntfs
+sudo pacman -R dosfstools
+sudo mount -t vfat /dev/sde /media/USBStick/
+blkid
+sudo blkid
+lsblk
+fdisk -l
+sudo fdisk -l
+udisksd
+udisk
+pacman -S udisks2
+sudo pacman -S udisks2
+udevadm monitor
+udisks2
+udisksd
+udisks
+udiskctl
+udisksctl
+udisksctl status
+udisksctl monitor
+udisksctl mount
+lsblk -f
+mount sde /media/USBStick/
+sudo mount sde /media/USBStick/
+lsblk -f
+sudo mount /dev/sde /media/USBStick/
+sudo pacman -S udiskie
+udiskie --tray
+lsblk
+dd bs=4M if=~/Downloads/archlinux-2017.08.01-x86_64.iso of=/dev/sde status=progress && sync
+sudo dd bs=4M if=~/Downloads/archlinux-2017.08.01-x86_64.iso of=/dev/sde status=progress && sync
+systemctl status
+findmnt
+df -h
+free -h
+udiskie
+udiskie help
+ps
+udiskie &
+ps
+fdisk -l
+sudo fdisk -l
+blkid
+lsblk
+df -h
+la
+vim .xinitrc 
+blkid
+lsblk
+fdisk -l
+sudo fdisk -l
+udiskie-mount /dev/sde
+systemctl status
+systemctl service
+systemctl
+systemctl services
+systemd 
+services
+systemctl list-units
+systemctl list-unit-files
+vim /etc/iptables/iptables.rules.bak 
+vim /etc/iptables/iptables.rules
+iptables -S
+sudo iptables -S
+sudo iptables -L
+sudo iptables-save
+uuname -r
+uname -r
+ssh allenli@10.19.1.51
+passwd
+cd /var/log
+ls
+vim /etc/ssh/sshd_config
+sudo vim /etc/ssh/sshd_config
+systemctl sshd
+systemctl statussshd
+systemctl status sshd
+cd ~
+ls
+vim bash_command_reminder 
+startx
+df -h
+vim /etc/fstab
+mount -t nfs 10.19.1.203:/volume1/Share /NAS-Share
+sudo mount -t nfs 10.19.1.203:/volume1/Share /NAS-Share
+sudo mount -t nfs 10.19.1.203:/volume1/Warrant /NAS-Warrant
+df -h
+mount /dev/sde /media/USBStick/
+sudo mount /dev/sde /media/USBStick/
+df -h
+vim bash_command_reminder 
+lsblk -f
+startx
+lsblk -f
+sudo mount /dev/sdb /media/USBStick/
+lsblk -f
+cd /media/USBStick/
+ls
+exit
+ssh allenli@10.19.1.51
+exit
+vim bash_command_reminder 
+vim /etc/vimrc 
+dmesg
+journalctl -b
+systemctl status NetworkManager.service
+systemctl status NetworkManager
+systemctl status 
+vim /etc/systemd/network/wired.network 
+systemctl status networkd
+systemctl status systemd-networkd
+systemctl status netctl
+systemctl status systemd-networkd-wait-online
+systemctl enable systemd-networkd-wait-online
+systemctl status systemd-networkd-wait-online
+systemctl start systemd-networkd-wait-online
+systemctl status systemd-networkd-wait-online
+exit
+vim /etc/systemd/network/
+vim /etc/systemd/network/wired.network 
+vim /etc/systemd/system/network-online.target.wants/systemd-networkd-wait-online.service 
+df -h
+startx
+mkinitcpio -h
+vim /etc/mkinitcpio.conf
+vim /etc/httpd/conf/httpd.conf
+vim /etc/php/php.ini
+vim /etc/httpd/conf/extra/phpmyadmin.conf 
+df -h
+free -h
+blkid
+lsblk
+sudo blkid
+fdisk -l
+sudo fdisk -l
+findmnt
+systemctl 
+systemctl list-unit-files
+:q
+exit
+cp /usr/share/dunst/dunstrc ~/.config/dunst/dunstrc
+cd .config/
+ls
+la
+mkdir dunst
+cp /usr/share/dunst/dunstrc ./dunst/
+cd dunst/
+ls
+vim dunstrc 
+udisks &
+udisk & 
+udisk2 & 
+udisks2 & 
+udiskie &
+dc ~
+cd ~
+vim .xinitrc 
+man lxsession
+man startx
+vim .xinitrc 
+vim /etc/X11/xinit/xinitrc
+vim /etc/X11/xinit/xserverrc 
+vim .xinitrc 
+cd /etc/X11/xinit/xinitrc
+cd /etc/X11/xinit/xinitrc.d/
+ls
+vim 50-systemd-user.sh 
+cd /run/media/
+ls
+cd allenli/
+ls
+dc ..
+cd /run/
+ls
+cd mount/
+ls
+vim utab
+cd ../mysqld/
+ls
+cd mysqld.sock 
+vim mysqld.sock 
+sudo vim mysqld.sock 
+vim /etc/ssh/sshd_config
+echo $USER
+iptables-save
+sudo iptables-save
+ls
+la
+vim bash_command_reminder 
+Pacmann -Syu
+pacman -Syu
+sudo pacman -Syu
+sudo lshw
+pacman -S hwdetect
+sudo pacman -S hwdetect
+hwdetect
+hwdetect --show-modules
+pacman vlc
+pacman -S vlc
+sudo pacman -S vlc
+vlc
+free -h
+lp
+ps
+ps -h
+man ps
+ps -e
+man startx
+sudo pacman -S mplayer
+mplayer
+ls
+mplayer 20161106103245.m2ts 
+vlc 20161106103245.m2ts 
+pacman -S kmplayer
+sudo pacman -S kmplayer
+fdisk -l
+sudo fdisk -l
+lsblk
+lspci
+pacman -S chromium
+sudo pacman -S chromium
+sudo pacman -Syu
+free -h
+lspci | grep -e VGA -e 3D
+pacman -S mesa
+sudo pacman -S mesa
+sudo pacman -S lib32-mesa
+sudo pacman -S xf86-video-intel
+man gedit
+exit
+cowsay
+startx
+vim bash_command_reminder 
+sudo pacman -Syu
+sudo pacman -S intel-ucode
+grub-mkconfig -o /boot/grub/grub.cfg
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+pacman -S htop
+sudo pacman -S htop
+htop
+startx
+dmesg | grep microcode
+vim bash_command_reminder 
+
+man pacman
+pacman -Q
+ncurse
+pcurse
+pcurses
+oneko
+chsh -l
+cd algs4/
+ls
+cd wordnet/
+ls
+cd ..
+ls
+cd kdtree/
+ls
+vim *.java
+vim -t *.java
+vim -h
+vim -p *.java
+cd ../wordnet/
+ls
+vim outcast5.txt 
+pacman -Syu
+sudo pacman -Syu
+pacman -Rs libxfont
+sudo pacman -Rs libxfont
+sudo pacman -Syu
+ls
+cd algs4/
+ls
+mkdir WordNet
+ls
+cd WordNet/
+ls
+unzip wordnet-testing.zip 
+ls
+mv wordnet ../
+ls
+cd ..
+ls
+cd wordnet/
+ls
+cd ..
+ls
+cd percolation/
+ls
+cd ..
+ls
+cd WordNet/
+ls
+cd ..
+rm WordNet/
+rm -r WordNet/
+ls
+cd wordnet/
+ls
+cd ..
+ls
+cd collinear/
+ls
+cd ..
+cd wordnet/
+vim WordNet.java
+exit
+cd algs4/
+ls
+cd wordnet/
+ls
+algs4-javac
+javac-algs4 SAP.java 
+checkstyle-algs4 SAP.java
+javac-algs4 SAP.java 
+java-algs4 SAP digraph1.txt 
+javac-algs4 SAP.java 
+java-algs4 SAP digraph1.txt 
+javac-algs4 SAP.java 
+checkstyle-algs4 SAP.java
+findbugs-algs4 SAP.java 
+findbugs-algs4 SAP
+findbugs-algs4 SAP.class 
+javac-algs4 WordNet.java 
+ls
+java-algs4 WordNet synsets.txt hypernyms.txt 
+javac-algs4 WordNet.java 
+java-algs4 WordNet synsets.txt hypernyms.txt 
+javac-algs4 WordNet.java 
+java-algs4 WordNet synsets.txt hypernyms.txt 
+javac-algs4 WordNet.java 
+java-algs4 WordNet synsets.txt hypernyms.txt 
+javac-algs4 WordNet.java 
+java-algs4 WordNet synsets.txt hypernyms.txt 
+javac-algs4 Outcast.java 
+java-algs4 Outcast synsets.txt hypernyms.txt outcast5.txt outcast8.txt outcast11.txt 
+javac-algs4 Outcast.java 
+java-algs4 Outcast synsets.txt hypernyms.txt outcast5.txt outcast8.txt outcast11.txt 
+zip wordnet.zip SAP.java WordNet.java Outcast.java 
+javac-algs4 Outcast.java 
+findbugs-algs4 Outcast.class 
+findbugs-algs4 Outcast.class WordNet.class SAP.class 
+checkstyle-algs4 Outcast.java WordNet.java SAP.java 
+zip wordnet.zip SAP.java WordNet.java Outcast.java 
+javac-algs4 WordNet.java SAP.java Outcast.java 
+checkstyle-algs4 Outcast.java WordNet.java SAP.java 
+findbugs-algs4 Outcast.class WordNet.class SAP.class 
+zip wordnet.zip SAP.java WordNet.java Outcast.java 
+javac-algs4 WordNet.java SAP.java Outcast.java 
+zip wordnet.zip SAP.java WordNet.java Outcast.java 
+checkstyle-algs4 Outcast.java WordNet.java SAP.java 
+javac-algs4 WordNet.java SAP.java Outcast.java 
+checkstyle-algs4 Outcast.java WordNet.java SAP.java 
+javac-algs4 WordNet.java SAP.java Outcast.java 
+zip wordnet.zip SAP.java WordNet.java Outcast.java 
+javac-algs4 WordNet.java SAP.java Outcast.java 
+zip wordnet.zip SAP.java WordNet.java Outcast.java 
+javac-algs4 WordNet.java SAP.java Outcast.java 
+checkstyle-algs4 Outcast.java WordNet.java SAP.java 
+zip wordnet.zip SAP.java WordNet.java Outcast.java 
+javac-algs4 WordNet.java SAP.java Outcast.java 
+checkstyle-algs4 Outcast.java WordNet.java SAP.java 
+zip wordnet.zip SAP.java WordNet.java Outcast.java 
+exit
+startx
+ls
+cd algs4/
+ls
+unzip seam-testing.zip 
+ls
+rm seam-testing.zip 
+cd seam
+ls
+vim SeamCarver.java
+exit
+free =h
+free -h
+free h
+free help
+free 
+exit
+ls
+startx
+cd algs4/wordnet/
+ls
+vim WordNet.java 
+cd ..
+dc seam/
+cd seam/
+ls
+javac-algs4 SeamCarver.java 
+locate algs4.jar
+find algs4.jar
+cd ..
+ls
+vim ~/.bash_profile 
+cd .
+cd ..
+find algs4.jar
+wheris algs4.jar
+find / algs4.jar
+find / -name algs4.jar
+sudo find / -name algs4.jar
+ls
+cd CS61B/javalib/
+ls
+cd ~/algs4/seam/
+ls
+javac-algs4 SeamCarver.java 
+ls
+javac-algs4 PrintEnergy.java 
+java-algs4 PrintEnergy 1x1.png 
+java-algs4 PrintEnergy 1x8.png 
+java-algs4 PrintEnergy 3x4.png 
+javac-algs4 SeamCarver.java 
+java-algs4 PrintEnergy 3x4.png 
+javac-algs4 SeamCarver.java 
+java-algs4 PrintEnergy 3x4.png 
+ls
+java-algs4 PrintEnergy 10x10.png 
+javac-algs4 ShowEnergy.java 
+java-algs4 ShowEnergy 10x10.png 
+java-algs4 ShowEnergy chameleon.png 
+ls
+vim PrintSeams.java 
+javac-algs4 PrintSeams.java 
+java-algs4 PrintSeams 6x5.png 
+javac-algs4 PrintSeams.java 
+java-algs4 PrintSeams 6x5.png 
+javac-algs4 PrintSeams.java 
+java-algs4 PrintSeams 6x5.png 
+javac-algs4 PrintSeams.java 
+java-algs4 PrintSeams 6x5.png 
+javac-algs4 PrintSeams.java 
+java-algs4 PrintSeams 6x5.png 
+javac-algs4 PrintSeams.java 
+java-algs4 PrintSeams 6x5.png 
+javac-algs4 PrintSeams.java 
+java-algs4 PrintSeams 6x5.png 
+javac-algs4 PrintSeams.java 
+java-algs4 PrintSeams 6x5.png 
+javac-algs4 PrintSeams.java 
+java-algs4 PrintSeams 6x5.png 
+ls
+javac-algs4 ResizeDemo.java 
+java-algs4 ResizeDemo 
+java-algs4 ResizeDemo 6x5.png 
+java-algs4 ResizeDemo 6x5.png 1
+java-algs4 ResizeDemo 6x5.png 1 0
+java-algs4 ResizeDemo chameleon.png 1 0
+java-algs4 ResizeDemo chameleon.png 10 0
+javac-algs4 ResizeDemo.java 
+java-algs4 ResizeDemo chameleon.png 10 0
+java-algs4 ResizeDemo chameleon.png 100 0
+javac-algs4 ResizeDemo.java 
+java-algs4 ResizeDemo chameleon.png 0 100
+zip SeamCarver.java 
+zip SeamCarver.zip SeamCarver.java 
+zip seam.zip SeamCarver.java 
+ls
+rm SeamCarver.zip 
+checkstyle-algs4 SeamCarver.java 
+findbugs-algs4 SeamCarver.class 
+zip seam.zip SeamCarver.java 
+javac-algs4 ResizeDemo.java 
+java-algs4 ResizeDemo chameleon.png 0 100
+zip seam.zip SeamCarver.java 
+javac-algs4 ResizeDemo.java 
+zip seam.zip SeamCarver.java 
+javac-algs4 ResizeDemo.java 
+zip seam.zip SeamCarver.java 
+find / -name algs4.jar
+sudo find / -name algs4.jar
+cd /usr/local/algs4/
+ls
+sudo curl -O "https://algs4.cs.princeton.edu/code/algs4.jar"
+sudo curl -O "https://algs4.cs.princeton.edu/linux/{javac,java}-{algs4,cos226,coursera}"
+sudo chmod 755 {javac,java}-{algs4,cos226,coursera}
+sudo mv {javac,java}-{algs4,cos226,coursera} /usr/local/bin
+cd ~/algs4/seam/
+javac-algs4 ResizeDemo.java 
+zip seam.zip SeamCarver.java 
+java-algs4 ResizeDemo chameleon.png 0 100
+java-algs4 ResizeDemo chameleon.png 100 0
+ls
+cd algs4/
+ls
+cd seam/
+ls
+vim SeamCarver.java 
+exit
+sudo pacman -Syu
+ls
+cd algs4/
+ls
+cd baseball
+ls
+vim teams1.txt 
+javac-algs4 BaseballElimination.java 
+java-algs4 BaseballElimination
+java-algs4 BaseballElimination teams1.txt 
+java-algs4 BaseballElimination teams5.txt 
+javac-algs4 BaseballElimination.java 
+java-algs4 BaseballElimination teams5.txt 
+javac-algs4 BaseballElimination.java 
+ls
+cd al
+cd algs4/
+ls
+unzip baseball-testing.zip 
+ls
+cd baseball
+ls
+vim BaseballElimination.java
+startx
+cd algs4/baseball
+javac-algs4 BaseballElimination.java 
+java-algs4 BaseballElimination teams4.txt 
+java-algs4 BaseballElimination teams5.txt 
+javac-algs4 BaseballElimination.java 
+java-algs4 BaseballElimination teams5.txt 
+java-algs4 BaseballElimination teams4.txt 
+javac-algs4 BaseballElimination.java 
+java-algs4 BaseballElimination teams4.txt 
+java-algs4 BaseballElimination teams5.txt 
+javac-algs4 BaseballElimination.java 
+java-algs4 BaseballElimination teams4.txt 
+java-algs4 BaseballElimination teams5.txt 
+javac-algs4 BaseballElimination.java 
+java-algs4 BaseballElimination teams5.txt 
+java-algs4 BaseballElimination teams4.txt 
+javac-algs4 BaseballElimination.java 
+java-algs4 BaseballElimination teams4.txt 
+zip BaseballElimination.java 
+zip baseball.zip BaseballElimination.java 
+checkstyle-algs4 BaseballElimination.java 
+findbugs-algs4 BaseballElimination.class 
+zip baseball.zip BaseballElimination.java 
+checkstyle-algs4 BaseballElimination.java 
+javac-algs4 BaseballElimination.java 
+zip baseball.zip BaseballElimination.java 
+cd ..
+unzip boggle-testing.zip 
+ls
+dc boggle
+cd boggle
+ls
+vim BoggleSolver.java
+sudo pacman -Syu
+cd ~
+ls
+unzip mLNHIICC_Setup.Ubuntu.zip 
+ls
+sudo pacman -S libc6
+sudo pacman -S pcsc
+tar -xvf mLNHIICC_Setup.Ubuntu16.tar.gz 
+ls
+cd mLNHIICC_Setup
+ls
+sudo ./Install 
+sudo pacman -S ccid
+sudo pacman -S opensc
+systemctl status pcscd
+systemctl enable pcscd
+systemctl status pcscd
+systemctl enable pcscd
+systemctl status pcscd
+sudo systemctl status pcscd
+sudo systemctl start pcscd
+sudo systemctl status pcscd
+sudo pacman -S pcsc-tools
+pcsc_scan
+sudo ./Install 
+ls
+sudo ./Install 
+vim Install 
+cd ..
+ls
+unzip mLNHIICC_Setup.Ubuntu.zip 
+ls
+tar -xvf mLNHIICC_Setup.Ubuntu16.tar.gz 
+ls
+cd mLNHIICC_Setup
+ls
+sudo ./Install 
+ls
+cd ..
+unzip mLNHIICC_Setup.fedora.zip 
+tar -xvf mLNHIICC_Setup.20160206.fedora25.tar.gz 
+ls
+cd mLNHIICC_Setup.20160206
+ls
+cd mLNHIICC_Setup/
+ls
+sudo ./Install 
+sudo pacman -S libusb
+sudo pacman -S glibc
+sudo ./Install 
+ls
+vim Install 
+pcsc_scan
+ssh bbs@ptt.cc:443
+ssh bbs@ptt.cc
+ssh bbs@ptt.cc 443
+ssh bbs@ptt.cc:443
+telnets://ptt.cc
+telnets ptt.cc
+ssh bbs@ptt.cc port 443
+ssh bbs@ptt.cc 443
+ssh bbs@ptt.cc -p 443
+la
+cd .elinks/
+ls
+la
+fdisk -l
+sudo fdisk -l
+lsblk
+vim /etc/locale.conf 
+vim /etc/locale.gen
+vim /home/
+vim /etc/hostname 
+vim /etc/hosts
+free -h
+cd /var/log/
+ls
+vim Xorg.0.log
+vim faillog 
+sudo faillog 
+sudo vim faillog 
+cd /etc/pam.d/
+ls
+la
+htop
+cd ~
+lsblk
+mount /dev/sde /media/USBStick/
+sudo mount /dev/sde /media/USBStick/
+cd /media/
+ls
+mkdir USBHDD
+sudo mount /dev/sdf /media/USBHDD/
+sudo mount /dev/sdf1 /media/USBHDD/
+la
+chmod r+w USBHDD/
+chmod --help
+chmod 777 USBHDD/
+sudo chmod 777 USBHDD/
+umount USBHDD/ USBStick/
+sudo umount USBHDD/ USBStick/
+la
+sudo chmod 777 USBHDD/
+la
+sudo chmod 766 USBHDD/
+la
+sudo mount /dev/sdf1 /media/USBHDD/
+sudo mount /dev/sde /media/USBStick/
+la
+cd ~
+ls
+la
+vim .xinitrc 
+udiskie &
+free -h
+lsblk
+cd /NAS-Share/
+ls
+cd ~
+ls
+ls -al
+vim .viminfo 
+vim .vim
+vim bash_command_reminder 
+vim /etc/vimrc 
+sudo vim /etc/vimrc 
+cd algs4/
+ls
+cd boggle/
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+java-algs4 BoggleSolver dictionary-algs4.txt board-q.txt 
+javac-algs4 BoggleSolver.java 
+checkstyle-algs4 BoggleSolver.
+checkstyle-algs4 BoggleSolver.java 
+javac-algs4 BoggleSolver.java 
+findbugs-algs4 BoggleSolver.class 
+zip boggle.zip BoggleSolver.java 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board-q.txt 
+zip boggle.zip BoggleSolver.java 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board-q.txt 
+zip boggle.zip BoggleSolver.java 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board-q.txt 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+zip boggle.zip BoggleSolver.java 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+zip boggle.zip BoggleSolver.java 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 BoggleSolver.java 
+cd ..
+grep 'Object'
+grep 'Object' .*
+grep 'Object' /*
+man grep
+grep 'Object' -r
+javac-algs4 BoggleSolver.java 
+cd boggle/
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+free -h
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+java-algs4 BoggleSolver dictionary-algs4.txt board-q.txt 
+zip boggle.zip BoggleSolver.java 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board-q.txt 
+checkstyle-algs4 BoggleSolver.java 
+javac-algs4 BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board-q.txt 
+zip boggle.zip BoggleSolver.java 
+javac-algs4 BoggleSolver.java 
+zip boggle.zip BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board-q.txt 
+javac-algs4 BoggleSolver.java 
+free -h
+htop
+javac-algs4 FastTST.java 
+mv FastTST.java FastPrefixTST.java
+javac-algs4 FastTST.java 
+javac-algs4 FastPrefixTST.java 
+javac-algs4 BoggleSolver.java 
+javac-algs4 FastPrefixTST.java BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board-q.txt 
+javac-algs4 FastPrefixTST.java BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board-q.txt 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+zip boggle.zip BoggleSolver.java FastPrefixTST.java 
+checkstyle-algs4 BoggleSolver.
+checkstyle-algs4 BoggleSolver.java 
+checkstyle-algs4 FastPrefixTST.java 
+javac-algs4 FastPrefixTST.java BoggleSolver.java 
+zip boggle.zip BoggleSolver.java FastPrefixTST.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 FastPrefixTST.java BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 FastPrefixTST.java BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+java-algs4 BoggleSolver dictionary-algs4.txt board-q.txt 
+zip boggle.zip BoggleSolver.java FastPrefixTST.java 
+javac-algs4 FastPrefixTST.java BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board-q.txt 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+zip boggle.zip BoggleSolver.java FastPrefixTST.java 
+javac-algs4 FastPrefixTST.java BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+java-algs4 BoggleSolver dictionary-algs4.txt board-q.txt 
+javac-algs4 FastPrefixTST.java BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board-q.txt 
+javac-algs4 FastPrefixTST.java BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board-q.txt 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+zip boggle.zip BoggleSolver.java FastPrefixTST.java 
+javac-algs4 FastPrefixTST.java BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 FastPrefixTST.java BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 FastPrefixTST.java BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 FastPrefixTST.java BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 FastPrefixTST.java BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+javac-algs4 FastPrefixTST.java BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board4x4.txt 
+java-algs4 BoggleSolver dictionary-algs4.txt board-q.txt 
+zip boggle.zip BoggleSolver.java FastPrefixTST.java 
+javac-algs4 FastPrefixTST.java BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board-q.txt 
+javac-algs4 FastPrefixTST.java BoggleSolver.java 
+java-algs4 BoggleSolver dictionary-algs4.txt board-q.txt 
+free -h
+htop
+exit
+htop
+elinks
+elink
+pacman -S elinks
+sudo pacman -S elinks
+elinks
+ls
+elinks
+free -h
+pacman -S ntfs-3g
+sudo pacman -S ntfs-3g
+ls
+cd algs4/
+ls
+cd boggle
+ls
+vim BoggleGame.java 
+startx
+md5sum /dev/sde
+sudo md5sum /dev/sde
+exit
+md5sum Downloads/archlinux-2018.07.01-x86_64.iso 
+lsblk
+pacman -Syu
+sudo pacman -Syu
+dd bs=4M if=~/Downloads/archlinux-2018.07.01-x86_64.iso of=/dev/sdx status=progress oflag=sync
+sudo dd bs=4M if=~/Downloads/archlinux-2018.07.01-x86_64.iso of=/dev/sdx status=progress oflag=sync
+lsblk
+sudo dd bs=4M if=~/Downloads/archlinux-2018.07.01-x86_64.iso of=/dev/sde status=progress oflag=sync
+sudo pacman -Syu
+pacman -Rns
+sudo pacman -Rns
+pacman -Rns $(pacman -Qtdq)
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+exit
+ls
+startx
+vim bash_command_reminder 
+sudo vim bash_command_reminder 

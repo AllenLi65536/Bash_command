@@ -3,9 +3,17 @@ vim /etc/ssh/sshd_config
 vim /etc/issue
 vim motd.sh
 
+#systemd
+systemctl list-unit-files
+
 #Graphical pacman
 pcurses
 pacman -Ql package_name
+
+#System update
+pacman -Syyu
+
+pacman -Syuw
 
 #install AUR
 makekg -s
@@ -34,6 +42,9 @@ iptables-save > /etc/iptables/iptables.rules
 /usr/lib/systemd/system/iptables.service
 /etc/systemd/system/
 
+#Notification
+cp /usr/share/dunst/dunstrc ~/.config/dunst/dunstrc
+
 xinit /usr/bin/startlxde 
 
 #SWAP
@@ -48,6 +59,11 @@ grub-mkconfig
 grub-mkconfig -o /boot/grub/grub.cfg
 grub-install /dev/sda
 
+# Users
+/etc/passwd
+/etc/group
+
+#mkinitcpio
 vim /etc/mkinitcpio.conf
 mkinitcpio -p linux
 
@@ -59,9 +75,11 @@ ln -s /usr/share/zoneinfo/Asia/Taipei /etc/localtime
 /etc/httpd/conf/extra/phpmyadmin.conf
 
 #disk
+mount /dev/sde /media/USBStick
 df -h
 blkid
 lsblk
 fdisk -l
 mkfs.vfat 
 findmnt
+mount -o rw,users,umask=000 ...
