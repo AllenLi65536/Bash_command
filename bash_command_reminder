@@ -83,3 +83,8 @@ fdisk -l
 mkfs.vfat 
 findmnt
 mount -o rw,users,umask=000 ...
+
+# Format
+dd if=/dev/zero of=/dev/sdb bs=512 count=1
+fdisk /dev/sdb
+mkfs.vfat /dev/sdb
